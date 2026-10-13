@@ -48,7 +48,8 @@ so your model can weigh them.
 
 ## License and attribution
 
-Data: **CC BY 4.0**. Values that came from a source keep that source's terms (see each entry's `source`).
+This kit (code, config, examples): **MIT** — see `LICENSE`.
+Data served by Thea: **CC BY 4.0**. Values that came from a source keep that source's terms (see each entry's `source`).
 When you use it in an answer, add one line:
 
 ```

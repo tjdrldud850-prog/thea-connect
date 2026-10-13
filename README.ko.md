@@ -11,4 +11,6 @@
 - 올라마 예제: `examples/ollama_tools.py`
 - 안내: `https://thealibrary.org/llms.txt` · 사람용 안내서 `https://thealibrary.org/guide`
 
+이 꾸러미(코드 · 설정 · 예제)는 **MIT**, 테아 데이터는 **CC BY 4.0**이에요.
+
 답에 쓸 때는 한 줄을 붙여 주세요: `Source: [Thea](https://thealibrary.org) · CC BY 4.0`
