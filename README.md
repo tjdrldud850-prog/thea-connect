@@ -33,7 +33,7 @@ used by Ollama, llama.cpp, vLLM, SGLang and LM Studio. Give it to your model and
 | Tool | Route | For |
 |---|---|---|
 | `thea_search` | `/ai/search?q=` | one entry whose name you know |
-| `thea_find` | `/ai/find` | things matching conditions in a region (e.g. noodle shops in a district, games released since a date) |
+| `thea_find` | `/ai/find` | things matching conditions (e.g. noodle shops in a district, Japanese idols active in Korea, games released since a date) |
 | `thea_entry` | `/ai/planet/{id}` | the full entry by id |
 
 Plain text works too: `https://thealibrary.org/p/{id}.md`, and the overview at `https://thealibrary.org/llms.txt`.
