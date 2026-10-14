@@ -5,6 +5,8 @@ about **1.07 million places in Korea** from Korean public data, plus people, wor
 and dated records (new episodes, releases, openings) that people add and check.
 It is read-only for AI, needs **no API key and no login**, and the data is **CC BY 4.0**.
 
+> Sorry — for now, most of Thea is Korean. Other countries only have their regions set up so far. If you know places in your area, please add them at thealibrary.org.
+
 Your model doesn't know what happened last week, or the noodle shop down the street.
 The open web is mostly bot walls, logins and JavaScript. Thea is already open and already trimmed:
 one entry is about 1 KB of fields, not a scraped page.
