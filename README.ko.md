@@ -12,6 +12,7 @@
 - 함수 호출용 도구 정의: `tools.json` (최신판 `https://thealibrary.org/ai/tools.json`)
 - 올라마 예제: `examples/ollama_tools.py`
 - 안내: `https://thealibrary.org/llms.txt` · 사람용 안내서 `https://thealibrary.org/guide`
+- Claude · ChatGPT · Gemini · Grok · 로컬 모델 연결 방법(5개 언어): `https://thealibrary.org/connect`
 
 이 꾸러미(코드 · 설정 · 예제)는 **MIT**, 테아 데이터는 **CC BY 4.0**이에요.
 

@@ -20,12 +20,19 @@ Listed in the official MCP Registry as `org.thealibrary/thea`.
 
 | Client | How |
 |---|---|
-| Claude | Settings → Connectors → Add custom connector → the URL above |
-| ChatGPT | Settings → Apps → Advanced → Developer mode → Create → the URL above |
-| Gemini CLI | `~/.gemini/settings.json`: `{"mcpServers": {"thea": {"httpUrl": "https://thealibrary.org/mcp"}}}` |
-| Ollama (ollmcp) | `ollmcp --mcp-server-url https://thealibrary.org/mcp --model <model>` |
+| Claude (web, desktop) | Customize → Connectors → + Add → Add custom connector → the URL above. The free plan allows one custom connector. |
+| ChatGPT (web) | chatgpt.com/plugins → + → Add custom MCP server → the URL above → No authentication → create as a plugin → install, then @ in a chat. Confirmed on Business, Enterprise, Edu; Plus and Pro not yet confirmed. |
+| Gemini app | Not yet confirmed (open only to US, English, personal accounts; no-login servers unconfirmed) |
+| Gemini CLI | `gemini mcp add --transport http thea https://thealibrary.org/mcp`, or `~/.gemini/settings.json`: `{"mcpServers": {"thea": {"httpUrl": "https://thealibrary.org/mcp"}}}` |
+| LM Studio (0.3.17+) | Program → Install → Edit mcp.json: `{"mcpServers": {"thea": {"url": "https://thealibrary.org/mcp"}}}` |
+| Ollama (ollmcp, third-party) | `ollmcp --mcp-server-url https://thealibrary.org/mcp --model <model>` |
+| Open WebUI (0.6.31+, admin) | Admin Settings → Integrations → External Tool Servers → + → MCP (Streamable HTTP) → the URL above → auth None |
+| Grok | grok.com/connectors → New Connector → Custom → the URL above |
 
-Menu names change often; these are as of October 2026.
+An "unverified service" warning while connecting is normal for any connector you add yourself. Thea is read-only and takes no login or personal data.
+Step-by-step guide in five languages: https://thealibrary.org/connect
+
+Menu names change often; these were checked against each official doc on 2026-10-19.
 
 ## No MCP? Use function calling
 
