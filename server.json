@@ -3,8 +3,21 @@
   "name": "org.thealibrary/thea",
   "title": "Thea",
   "description": "Sorry, mostly Korean for now: 1M+ places, people, works. Other countries: regions only. No key.",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "url": "https://github.com/tjdrldud850-prog/thea-connect",
+    "source": "github"
+  },
   "websiteUrl": "https://thealibrary.org",
+  "icons": [
+    {
+      "src": "https://thealibrary.org/static/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

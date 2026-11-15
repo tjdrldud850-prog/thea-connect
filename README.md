@@ -1,5 +1,7 @@
 # Thea — an open library your LLM can read
 
+[![mcptry](https://mcptry.com/badge/org.thealibrary/thea)](https://mcptry.com/servers/org.thealibrary/thea)
+
 [Thea](https://thealibrary.org) is a free, people-curated knowledge graph that starts from places:
 about **1.07 million places in Korea** from Korean public data, plus people, works, organizations, games
 and dated records (new episodes, releases, openings) that people add and check.

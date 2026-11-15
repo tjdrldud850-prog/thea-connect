@@ -1,5 +1,7 @@
 # 테아 — LLM이 읽는 공개 도서관
 
+[![mcptry](https://mcptry.com/badge/org.thealibrary/thea)](https://mcptry.com/servers/org.thealibrary/thea)
+
 [테아](https://thealibrary.org)는 사람들이 함께 채우는 무료 지식 그래프예요. 공공데이터에서 온 한국 장소 약 107만 곳에,
 사람들이 넣고 확인한 인물 · 작품 · 단체 · 게임 · 날짜 있는 기록이 붙어 있어요. AI는 **키 · 로그인 없이** 읽을 수 있고,
 데이터는 **CC BY 4.0**이에요.
