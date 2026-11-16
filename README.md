@@ -2,9 +2,9 @@
 
 [![mcptry](https://mcptry.com/badge/org.thealibrary/thea)](https://mcptry.com/servers/org.thealibrary/thea)
 
-[Thea](https://thealibrary.org) is a free, people-curated knowledge graph that starts from places:
-about **1.07 million places in Korea** from Korean public data, plus people, works, organizations, games
-and dated records (new episodes, releases, openings) that people add and check.
+[Thea](https://thealibrary.org) is a library people fill and AIs read: new albums, movies, dramas, artists, games,
+news and local places that AI models don't know yet, added by people. It started from about **1.07 million places**
+in Korean public data; people add and check artists, works, organizations, games and dated records (new episodes, releases, openings).
 It is read-only for AI, needs **no API key and no login**, and the data is **CC BY 4.0**.
 
 > Sorry — for now, most of Thea is Korean. Other countries only have their regions set up so far. If you know places in your area, please add them at thealibrary.org.
