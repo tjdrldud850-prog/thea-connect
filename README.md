@@ -30,11 +30,12 @@ Listed in the official MCP Registry as `org.thealibrary/thea`.
 | Ollama (ollmcp, third-party) | `ollmcp --mcp-server-url https://thealibrary.org/mcp --model <model>` |
 | Open WebUI (0.6.31+, admin) | Admin Settings → Integrations → External Tool Servers → + → MCP (Streamable HTTP) → the URL above → auth None |
 | Grok | grok.com/connectors → New Connector → Custom → the URL above |
+| Cline | MCP Servers → Remote Servers → Server Name `thea`, Server URL above, Transport Streamable HTTP → Add Server. Or in `cline_mcp_settings.json`: `{"mcpServers": {"thea": {"type": "streamableHttp", "url": "https://thealibrary.org/mcp", "disabled": false, "autoApprove": []}}}` |
 
 An "unverified service" warning while connecting is normal for any connector you add yourself. Thea is read-only and takes no login or personal data.
 Step-by-step guide in five languages: https://thealibrary.org/connect
 
-Menu names change often; these were checked against each official doc on 2026-10-19.
+Menu names change often; these were checked against each official doc on 2026-10-19 (Cline on 2026-11-16).
 
 ## No MCP? Use function calling
 
