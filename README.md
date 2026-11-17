@@ -1,6 +1,8 @@
 # Thea — an open library your LLM can read
 
 [![mcptry](https://mcptry.com/badge/org.thealibrary/thea)](https://mcptry.com/servers/org.thealibrary/thea)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/tjdrldud850-prog/thea-connect)
+[![Thea MCP server](https://mcprush.com/badge/thea-mcp/card.svg)](https://mcprush.com/to/thea-mcp?ref=badge)
 
 [Thea](https://thealibrary.org) is a library people fill and AIs read: new albums, movies, dramas, artists, games,
 news and local places that AI models don't know yet, added by people. It started from about **1.07 million places**

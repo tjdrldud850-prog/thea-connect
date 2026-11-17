@@ -1,6 +1,8 @@
 # 테아 — LLM이 읽는 공개 도서관
 
 [![mcptry](https://mcptry.com/badge/org.thealibrary/thea)](https://mcptry.com/servers/org.thealibrary/thea)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/tjdrldud850-prog/thea-connect)
+[![Thea MCP server](https://mcprush.com/badge/thea-mcp/card.svg)](https://mcprush.com/to/thea-mcp?ref=badge)
 
 [테아](https://thealibrary.org)는 사람이 채우고 AI가 읽는 지식 도서관이에요. 새 음반 · 영화 · 드라마 · 가수 · 게임 · 소식 · 동네 가게처럼,
 AI가 아직 모르는 것을 사람이 채워요. 한국 공공데이터 장소 약 107만 곳에서 시작했고, 가수 · 작품 · 단체 · 게임 · 날짜 있는 기록은 사람이 넣고 확인해요. AI는 **키 · 로그인 없이** 읽을 수 있고,
