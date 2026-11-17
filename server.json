@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "org.thealibrary/thea",
   "title": "Thea",
-  "description": "Sorry, mostly Korean for now: 1M+ places, people, works. Other countries: regions only. No key.",
-  "version": "1.3.2",
+  "description": "A library people fill and AIs read: the latest sourced facts AI doesn't know yet. No key, no login.",
+  "version": "1.3.3",
   "repository": {
     "url": "https://github.com/tjdrldud850-prog/thea-connect",
     "source": "github"
