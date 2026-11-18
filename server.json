@@ -3,7 +3,7 @@
   "name": "org.thealibrary/thea",
   "title": "Thea",
   "description": "A library people fill and AIs read: the latest sourced facts AI doesn't know yet. No key, no login.",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "repository": {
     "url": "https://github.com/tjdrldud850-prog/thea-connect",
     "source": "github"
