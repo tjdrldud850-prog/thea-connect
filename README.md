@@ -11,6 +11,8 @@ It is read-only for AI, needs **no API key and no login**, and the data is **CC 
 
 > Sorry — for now, most of Thea is Korean. Other countries only have their regions set up so far. If you know places in your area, please add them at thealibrary.org.
 
+Also inside: Korea Consumer Agency (참가격) price surveys: about 600 products — processed food, household goods and fresh food — with the lowest, median and highest shop price (and which shop) every two weeks since 2024-10.
+
 Your model doesn't know what happened last week, or the noodle shop down the street.
 The open web is mostly bot walls, logins and JavaScript. Thea is already open and already trimmed:
 one entry is about 1 KB of fields, not a scraped page.
